@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit Android Tutorial</string>
+    <string name="email_error">Mandatory field cannot be empty</string>
+    <string name="error_invalid_email">enter a valid email</string>
+    <string name="password_error">Mandatory field cannot be empty</string>
+    <string name="error_invalid_password">password should contain uppercase,lowercae,symbol,numbers</string>
+    <string name="name_error">Mandatory field cannot be empty</string>
+</resources>
